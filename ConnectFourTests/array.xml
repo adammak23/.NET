@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<array>
+  <Element>
+    <index>1</index>
+    <x>5</x>
+    <y>0</y>
+  </Element>
+  <Element>
+    <index>1</index>
+    <x>5</x>
+    <y>1</y>
+  </Element>
+  <Element>
+    <index>1</index>
+    <x>5</x>
+    <y>2</y>
+  </Element>
+  <Element>
+    <index>1</index>
+    <x>5</x>
+    <y>3</y>
+  </Element>
+</array>
